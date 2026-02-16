@@ -1,2 +1,3 @@
-# daily-coding-challenge-zeynab
-this is my coding challenge repo ,I'm under control of Sara and Nazanin
+Daily coding challenge under Sara & Nazanin control. Goal: rebuild coding habit with strict rules
+strict rules."
+submission log — every day I code or face punishment
