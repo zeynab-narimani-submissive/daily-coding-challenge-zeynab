@@ -6,5 +6,8 @@ def find_max(numbers):
         if num > max_num:
             max_num = num
     return max_num
-
+numbers = []
+for i in range(10):
+    numbers.append(int(input("input numbers")))
 print(find_max([3,1,4,1,5,9,2,6]))
+print(find_max(numbers))
