@@ -14,4 +14,5 @@ def is_palindrome(s):
     else:
         return False
 
-print(is_palindrome("lev"))
+print(is_palindrome("level"))
+print(is_palindrome("low"))
