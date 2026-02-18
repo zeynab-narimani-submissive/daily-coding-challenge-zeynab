@@ -1,5 +1,5 @@
 from operator import truediv
-
+import unittest
 
 def is_palindrome(s):
     cleaned = ''.join(c.lower() for c in s if c.isalnum())
@@ -14,5 +14,3 @@ def is_palindrome(s):
     else:
         return False
 
-print(is_palindrome("level"))
-print(is_palindrome("low"))
