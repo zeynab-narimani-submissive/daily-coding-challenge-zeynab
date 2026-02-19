@@ -13,4 +13,6 @@ if __name__ == "__main__":
     print(reverse_string("hello"))      # "olleh"
     print(reverse_string("زینب"))        # "بنیز"
     print(reverse_string(""))           # ""
-    print(reverse_string("radar"))      # "radar"
+    print(reverse_string("radar"))   # "radar"
+    print(reverse_string("سارا"))
+    print(reverse_string("نازنین"))
