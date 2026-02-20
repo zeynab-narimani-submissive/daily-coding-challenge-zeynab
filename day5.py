@@ -11,3 +11,5 @@ def reverse_string(s):
         right -= 1
     return ''.join(chars)
 
+print(reverse_string("اَبَر"))  # باید بشه "رَبَأ" (نه چیزی شکسته)
+print(reverse_string("hello👩‍🚀"))  # باید درست معکوس بشه با ایموجی سالم
